@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "next",
+    "@vuepress/plugin-back-to-top": "next",
+    "vuepress": "^1.2.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:eject": "vuepress eject docs"
+  }
+}
