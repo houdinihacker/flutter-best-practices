@@ -1,6 +1,6 @@
 # Example
 
-``` flutter
+``` dartpad:flutter
 import 'package:flutter_web/material.dart';
 import 'package:flutter_web_test/flutter_web_test.dart';
 import 'package:flutter_web_ui/ui.dart' as ui;
@@ -29,6 +29,12 @@ class _MyAppState extends State {
       ),
     );
   }
+}
+```
+
+``` dartpad:dart
+void main() { 
+  print('Hello, World!'); 
 }
 ```
 
